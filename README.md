@@ -1,1 +1,1 @@
-if you want to test the code please change client_id and secret key from setup.php
+if you want to test the code please change client Id and secret key from setup.php
